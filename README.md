@@ -5,4 +5,6 @@
 # ePyBoard
 The official ePy repository to post issues and contribute.
 
-The code here comes with the board.
+Here is [our website](http://www.easypy.net/).
+
+The code in thid repo comes with the board.
